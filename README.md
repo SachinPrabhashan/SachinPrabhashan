@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h1>Connect with me <img width="28" height="28" src="https://img.icons8.com/fluency/48/link.png" alt="link"/></h1>
 <a href="https://www.linkedin.com/sachinrathnayake"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
-<a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/reddit.png" alt="reddit"/></a>
+<a href="https://www.reddit.com/user/SachinPrabhashan/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/reddit.png" alt="reddit"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
 <a href="https://github.com/SachinPrabhashan"><img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/></a>
