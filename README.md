@@ -19,10 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm simply NERD.
 
 <h1>Tech Stack</h1>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/>
 
 
 <h1>Connect with me <img width="28" height="28" src="https://img.icons8.com/fluency/48/link.png" alt="link"/></h1>
-<a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/sachinrathnayake"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/reddit.png" alt="reddit"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
