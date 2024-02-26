@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm simply NERD.
 
 <h1>Tech Stack</h1>
-<div style="display:flex;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+<div style="display:flex;">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 
@@ -33,6 +34,16 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-lightroom.png" alt="adobe-lightroom"/>
 
 
+</div>
+
+
+<h1>Leisure Time</h1>
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/controller.png" alt="controller"/>
+<hr>
+<div style="display:flex;">
+  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/000000/call-of-duty-mobile.png" alt="call-of-duty-mobile"/>
+  <img width="48" height="48" src="https://img.icons8.com/doodle/48/clash-of-clans.png" alt="clash-of-clans"/>
 </div>
 
 
