@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h1>Tech Stack</h1>
 
 
-<h1>Connect with me </h1><img width="48" height="48" src="https://img.icons8.com/fluency/48/contact-card.png" alt="contact-card"/>
+<h1>Connect with me <img width="40" height="40" src="https://img.icons8.com/office/40/contact-card.png" alt="contact-card"/></h1>
 <a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
