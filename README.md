@@ -30,21 +30,10 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/>
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-lightroom.png" alt="adobe-lightroom"/>
+
 
 </div>
-
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/>
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 
 
 <h1>Connect with me <img width="28" height="28" src="https://img.icons8.com/fluency/48/link.png" alt="link"/></h1>
