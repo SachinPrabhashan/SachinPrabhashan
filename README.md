@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <h1>Tech Stack</h1>
 
 
-<h1>Connect with me <i class="fa-solid fa-address-card"></i></h1>
+<h1>Connect with me <i class="fa-solid fa-address-card" style="color: #FFD43B;"></i></h1>
 <a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
