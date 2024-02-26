@@ -1,4 +1,4 @@
-<link src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 
 <h1>Hi there 👋</h1>
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <h1>Tech Stack</h1>
 
 
-<h1>Connect with me <i class="fa-solid fa-address-card" style="color: #FFD43B;"></i></h1>
+<h1>Connect with me <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/share-2--v1.png" alt="share-2--v1"/></h1>
 <a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
