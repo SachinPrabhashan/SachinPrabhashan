@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <h1>Tech Stack</h1>
 
 
-<h1>Connect with me <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/share-2--v1.png" alt="share-2--v1"/></h1>
+<h1>Connect with me <img width="28" height="28" src="https://img.icons8.com/fluency/48/link.png" alt="link"/></h1>
 <a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
