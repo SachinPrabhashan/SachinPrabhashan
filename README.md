@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/movie.png" alt="movie"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/tv-show.png" alt="tv-show"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/headphones.png" alt="headphones"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/>
 </div>
 
 
