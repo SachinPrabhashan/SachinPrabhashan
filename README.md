@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sachinprabhashan@gmail.com
 - ⚡ Fun fact: I'm simply NERD.
 
-<a href="www.google.com">Google</a>
+<a href="https://www.linkedin.com/feed">Google</a>
