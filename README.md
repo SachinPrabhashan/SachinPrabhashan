@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/reddit.png" alt="reddit"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
 <a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
-<a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/></a>
+<a href="https://github.com/SachinPrabhashan"><img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/></a>
 <a href="https://open.spotify.com/user/0i1efixqghhrfbike2rowhcok"><img width="48" height="48" src="https://img.icons8.com/fluency/48/spotify.png" alt="spotify"/></a>
 <a href="https://"></a>
 <a href="https://"></a>
