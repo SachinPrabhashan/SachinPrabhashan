@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 
 <h1>Connect with me <img width="28" height="28" src="https://img.icons8.com/fluency/48/link.png" alt="link"/></h1>
-<a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/SachinRathnayake"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
+<a href="https://"></a>
+<a href="https://"></a>
