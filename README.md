@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 
 
 <h1>Leisure Time</h1>
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/controller.png" alt="controller"/>
-<hr>
 <div style="display:flex;">
-  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/000000/call-of-duty-mobile.png" alt="call-of-duty-mobile"/>
-  <img width="48" height="48" src="https://img.icons8.com/doodle/48/clash-of-clans.png" alt="clash-of-clans"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/controller.png" alt="controller"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/movie.png" alt="movie"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/tv-show.png" alt="tv-show"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/headphones.png" alt="headphones"/>
 </div>
 
 
