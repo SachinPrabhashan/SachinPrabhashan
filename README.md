@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Vue.JS & Laravel.
 - 📫 How to reach me: sachinprabhashan@gmail.com
-- ⚡ Fun fact: I'm simply NERD.
+- ⚡ Fun fact: I'm a NERD.
 
 <h1>Tech Stack</h1>
 <div style="display:flex;">
