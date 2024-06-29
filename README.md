@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/>
+
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-lightroom.png" alt="adobe-lightroom"/>
